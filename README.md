@@ -1,4 +1,5 @@
 # BumperBears
+A fun and chaotic bumper car game where you crash, spin, and bump your way through the arena — as wild, wacky bears! Dodge, smash, and outlast your furry opponents in this bear-powered battle of mayhem.
 
 ## Team Members
 - Coehl Gleckner | Team Lead | Designer
