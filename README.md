@@ -8,4 +8,4 @@
 - Soahm Korgaokar | Designer
 - Elliot Privateer | Designer
 
-## [Presentation 1](https://docs.google.com/presentation/d/1W_vIFBxl2g_wOXoOnIm8PpCk9gWrNqQNGky0hy1xffc/edit#slide=id.p)
+## [Presentation](https://docs.google.com/presentation/d/1W_vIFBxl2g_wOXoOnIm8PpCk9gWrNqQNGky0hy1xffc/edit#slide=id.p)
