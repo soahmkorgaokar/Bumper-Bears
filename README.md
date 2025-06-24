@@ -16,6 +16,6 @@ A fun and chaotic bumper car game where you crash, spin, and bump your way throu
 
 ## 📦 What's Included
 
-- ✅ Windows executable (`BumperBears.exe`)
+- ✅ Windows executable (`Bumper Bears.exe`)
 - ✅ Required game assets for running the build
 - ❌ No source code or Blueprints
